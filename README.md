@@ -3,4 +3,6 @@
 
 1) Лекция 2 (Промпты и промпт-инжиниринг)
 2) Семинар 3 (Промпты)
-3) Семинар 6 (RAG)
+   https://colab.research.google.com/drive/11wlX-BIzF3nT1zRBt0MCokMK-3ZQOuaK?usp=sharing
+4) Семинар 6 (RAG)
+   👁👁👁
